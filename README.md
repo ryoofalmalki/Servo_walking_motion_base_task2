@@ -1,4 +1,4 @@
-# 🤖 Servo Walking Motion Base – Task 2
+# 🤖 Servo Walking Motion Base 
 
 This project demonstrates the basic sweep behavior and angle control of 4 servo motors using Arduino UNO and Tinkercad, serving as the foundation for **walking motion executed in a humanoid robot**.
 
